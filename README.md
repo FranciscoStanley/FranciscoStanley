@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 #🧑‍💻 - Hoje trabalho com back-end
 
-#👨‍💻 - Estudando Kotlin. BootCamp Mobile Developer da Digital Inovattion One - DIO.
+#👨‍💻 - Estudando Kotlin. Santander Bootcamp | Mobile Developer pela Digital Inovattion One - DIO.
 
 ## Oiii! Eu sou o Francisco Stanley 👋
  <div>
