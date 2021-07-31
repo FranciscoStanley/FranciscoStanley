@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 #👨‍💻 - Estudando Kotlin. Santander Bootcamp | Mobile Developer pela Digital Inovattion One - DIO.
 
 ## Oiii! Eu sou o Francisco Stanley 👋
- <div>
+ <div status>
   <a href="https://github.com/FranciscoStanley">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=franciscostanley&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscostanley&layout=compact&langs_count=7&theme=dracula"/>
