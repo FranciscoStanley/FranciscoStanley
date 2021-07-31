@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 #👨‍💻 - Estudando Kotlin. Santander Bootcamp | Mobile Developer pela Digital Inovattion One - DIO.
 
 ## Oiii! Eu sou o Francisco Stanley 👋
- <div status>
+ <div style="display: inline_block">
   <a href="https://github.com/FranciscoStanley">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=franciscostanley&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscostanley&layout=compact&langs_count=7&theme=dracula"/>
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
  
   ##
  
-<div redes-sociais> 
+<div style="display: inline_block"> 
   <a href="https://www.youtube.com/channel/UCwk1UO8WUBiKKadiHZY0SWw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/offensive_ethical_hacker" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
