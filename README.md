@@ -42,4 +42,4 @@ Here are some ideas to get you started:
   ![Snake animation](https://github.com/FranciscoStanley/franciscostanleyaction/blob/main/cobrinha.svg)
  
 </div>
-https://franciscostanley.github.io/Francisco-Stanley/
+https://franciscostanley.github.io/FranciscoStanley/
