@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 #👨‍🎓 - Graduando Bacharelado em Sistemas de Informação.
 
-#🧑‍💻 - Hoje trabalho com back-end
+#🧑‍💻 - Hoje trabalho com back-end em Python
 
 #👨‍💻 - Curso de Cloud Data Engineer. Cognizant Bootcamp | Cloud Data Engineer pela Digital Inovattion One - DIO.
 
