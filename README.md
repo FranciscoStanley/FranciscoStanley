@@ -9,7 +9,9 @@ Here are some ideas to get you started:
 
 #🧑‍💻 - Hoje trabalho com back-end
 
-#👨‍💻 - Estudando Kotlin. Santander Bootcamp | Mobile Developer pela Digital Inovattion One - DIO.
+#👨‍💻 - Curso de Cloud Data Engineer. Cognizant Bootcamp | Cloud Data Engineer pela Digital Inovattion One - DIO.
+
+#👨‍💻 - Curso concluído Kotlin. Santander Bootcamp | Mobile Developer pela Digital Inovattion One - DIO.
 
 ## Oiii! Eu sou o Francisco Stanley 👋
 
