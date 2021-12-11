@@ -7,7 +7,9 @@ Here are some ideas to get you started:
 
 #👨‍🎓 - Graduando Bacharelado em Sistemas de Informação.
 
-#🧑‍💻 - Hoje trabalho com back-end em Python
+#🧑‍💻 - Hoje trabalho como Desenvolvedor Junior, ReactJS, NodeJS e MongoDB.
+
+#🧑‍💻 - Desenvolvedor Web com Python e Django.
 
 #👨‍💻 - Curso de Cloud Data Engineer. Cognizant Bootcamp | Cloud Data Engineer pela Digital Inovattion One - DIO.
 
