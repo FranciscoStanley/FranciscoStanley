@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Francisco-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Francisco-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Francisco-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Francisco-yoda" height="200" width="400" src="https://media.giphy.com/media/ohT97gdpR40vK/giphy.gif">
+  <img align="center" alt="Francisco-yoda" height="200" width="390" src="https://media.giphy.com/media/ohT97gdpR40vK/giphy.gif">
 </div>
  
   ##
