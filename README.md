@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 #👨‍🎓 - Graduando Bacharelado em Sistemas de Informação.
 
-#🧑‍💻 - Hoje trabalho como Desenvolvedor Junior, ReactJS, NodeJS e MongoDB.
+#🧑‍💻 - Hoje trabalho como Desenvolvedor Junior, com ReactJS, NodeJS e MongoDB.
 
 #🧑‍💻 - Desenvolvedor Web com Python e Django.
 
