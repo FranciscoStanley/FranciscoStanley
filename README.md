@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 -->
 ### Francisco-Stanley
 
-#👨‍🎓 - Graduando Bacharelado em Sistemas de Informação.
+#👨‍🎓 - Bacharel em Sistemas de Informação.
 
 #👨‍💻 - Hoje trabalho como Desenvolvedor Junior, com ReactJS, NodeJS e MongoDB.
 
