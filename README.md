@@ -7,11 +7,11 @@ Here are some ideas to get you started:
 
 #👨‍🎓 - Graduando Bacharelado em Sistemas de Informação.
 
-#🧑‍💻 - Hoje trabalho como Desenvolvedor Junior, com ReactJS, NodeJS e MongoDB.
+#👨‍💻 - Hoje trabalho como Desenvolvedor Junior, com ReactJS, NodeJS e MongoDB.
 
-#🧑‍💻 - Desenvolvedor Web com Python e Django.
+#👨‍💻 - Desenvolvedor Web com Python e Django.
 
-#👨‍💻 - Curso de Cloud Data Engineer. Cognizant Bootcamp | Cloud Data Engineer pela Digital Inovattion One - DIO.
+#👨‍💻 - Curso concluído Cloud Data Engineer. Cognizant Bootcamp | Cloud Data Engineer pela Digital Inovattion One - DIO.
 
 #👨‍💻 - Curso concluído Kotlin. Santander Bootcamp | Mobile Developer pela Digital Inovattion One - DIO.
 
