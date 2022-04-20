@@ -11,8 +11,6 @@ Here are some ideas to get you started:
 
 #👨‍💻 - Desenvolvedor Web com Python e Django.
 
-#👨‍💻 - Curso concluído Cloud Data Engineer. Cognizant Bootcamp | Cloud Data Engineer pela Digital Inovattion One - DIO.
-
 ## Oiii! Eu sou o Francisco Stanley 👋
 
  <div>
