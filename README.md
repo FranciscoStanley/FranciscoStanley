@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 #👨‍💻 - Hoje trabalho como Desenvolvedor Junior, com ReactJS, NodeJS e MongoDB.
 
-#👨‍💻 - Desenvolvedor Web com Python e Django.
+#👨‍💻 - Desenvolvedor Web Python e Django.
 
 ## Oiii! Eu sou o Francisco Stanley 👋
 
