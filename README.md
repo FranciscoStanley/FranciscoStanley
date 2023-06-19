@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 #👨‍💻 - Hoje trabalho como Desenvolvedor Full Stack Junior, com ReactJS, AngularJS, TypeScript, NodeJS, Python, MongoDB e PostgreSQL.
 
-#👨‍💻 - Desenvolvedor Full Stack JavaScript.
+#👨‍💻 - Desenvolvedor Full Stack.
 
 ## Oiii! Eu sou o Francisco Stanley 👋
 
