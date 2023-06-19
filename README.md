@@ -7,9 +7,9 @@ Here are some ideas to get you started:
 
 #👨‍🎓 - Bacharel em Sistemas de Informação.
 
-#👨‍💻 - Hoje trabalho como Desenvolvedor Junior, com ReactJS, NodeJS e MongoDB.
+#👨‍💻 - Hoje trabalho como Desenvolvedor Full Stack Junior, com ReactJS, AngularJS, TypeScript, NodeJS, Python, MongoDB e PostgreSQL.
 
-#👨‍💻 - Desenvolvedor Web Python e Django.
+#👨‍💻 - Desenvolvedor Full Stack JavaScript.
 
 ## Oiii! Eu sou o Francisco Stanley 👋
 
