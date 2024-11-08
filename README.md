@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 #👨‍💻 - Desenvolvedor Full Stack.
 
-## Oiii! Eu sou o Francisco Stanley 👋
+## Oi! Eu sou o Francisco Stanley, Desenvolvedor apaixonado por tecnologias e novos paradigmas👋
 
  <div>
   <a href="https://github.com/FranciscoStanley">
