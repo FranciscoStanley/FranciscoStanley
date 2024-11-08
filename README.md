@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 #👨‍🎓 - Bacharel em Sistemas de Informação.
 
-#👨‍💻 - Hoje trabalho como Desenvolvedor Full Stack Junior, com ReactJS, AngularJS, TypeScript, NodeJS, Python, MongoDB e PostgreSQL.
+#👨‍💻 - Hoje trabalho como Desenvolvedor Full Stack Junior, com React.JS, Next.JS, Node.JS, Nest.JS, TypeScript, MongoDB e PostgreSQL.
 
 #👨‍💻 - Desenvolvedor Full Stack.
 
