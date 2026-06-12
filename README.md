@@ -19,30 +19,30 @@
 
 <p>Oi! Eu sou o <strong>Francisco Stanley</strong>, desenvolvedor apaixonado por tecnologias e novos paradigmas.</p>
 
+</div>
+
 <table>
   <tr>
-    <td align="right">🎓 <strong>Graduação</strong></td>
+    <td align="left">🎓 <strong>Graduação</strong></td>
     <td align="left">Bacharel em Sistemas de Informação</td>
   </tr>
   <tr>
-    <td align="right">📚 <strong>Pós-graduação</strong></td>
+    <td align="left">📚 <strong>Pós-graduação</strong></td>
     <td align="left">Lato Sensu — Especialização em Arquitetura de Software</td>
   </tr>
   <tr>
-    <td align="right">📖 <strong>Em curso</strong></td>
+    <td align="left">📖 <strong>Em curso</strong></td>
     <td align="left">Pós-graduação Lato Sensu — Especialização em Gestão de Projetos</td>
   </tr>
   <tr>
-    <td align="right">💼 <strong>Atuação</strong></td>
+    <td align="left">💼 <strong>Atuação</strong></td>
     <td align="left">Desenvolvedor Full Stack Pleno, Analista de Sistemas Pleno e Arquiteto de Software</td>
   </tr>
   <tr>
-    <td align="right">🛠️ <strong>Stack principal</strong></td>
+    <td align="left">🛠️ <strong>Stack principal</strong></td>
     <td align="left">JavaScript · React.js · Next.js · Node.js · Nest.js · TypeScript · MongoDB · PostgreSQL</td>
   </tr>
 </table>
-
-</div>
 
 ---
 
