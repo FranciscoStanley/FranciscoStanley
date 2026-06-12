@@ -22,7 +22,7 @@ Oi! Eu sou o **Francisco Stanley**, desenvolvedor apaixonado por tecnologias e n
 | 🎓 **Graduação** | Bacharel em Sistemas de Informação |
 | 📚 **Pós-graduação** | Lato Sensu — Especialização em Arquitetura de Software |
 | 📖 **Em curso** | Pós-graduação Lato Sensu — Especialização em Gestão de Projetos |
-| 💼 **Atuação** | Desenvolvedor Full Stack Pleno |
+| 💼 **Atuação** | Desenvolvedor Full Stack Pleno, Analista de Sistemas Pleno e Arquiteto de Software|
 | 🛠️ **Stack principal** | JavaScript · React.js · Next.js · Node.js · Nest.js · TypeScript · MongoDB · PostgreSQL |
 
 ---
