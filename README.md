@@ -21,6 +21,8 @@
 
 </div>
 
+<div align="center">
+
 <table>
   <tr>
     <td align="left">🎓 <strong>Graduação</strong></td>
@@ -43,6 +45,8 @@
     <td align="left">JavaScript · React.js · Next.js · Node.js · Nest.js · TypeScript · MongoDB · PostgreSQL</td>
   </tr>
 </table>
+
+</div>
 
 ---
 
