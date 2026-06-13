@@ -42,7 +42,7 @@
   </tr>
   <tr>
     <td align="left">🛠️ <strong>Stack principal</strong></td>
-    <td align="left">JavaScript · React.js · Next.js · Node.js · Nest.js · TypeScript · MongoDB · PostgreSQL</td>
+    <td align="left">JavaScript · React.js · Next.js · Node.js · Nest.js · TypeScript · MongoDB · PostgreSQL · SQL Server · Oracle</td>
   </tr>
 </table>
 
