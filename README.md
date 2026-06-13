@@ -30,7 +30,7 @@
   </tr>
   <tr>
     <td align="left">📚 <strong>Pós-graduação</strong></td>
-    <td align="left">Lato Sensu — Especialização em Arquitetura de Software</td>
+    <td align="left">Pós-graduação Lato Sensu — Especialização em Arquitetura de Software</td>
   </tr>
   <tr>
     <td align="left">📖 <strong>Em curso</strong></td>
